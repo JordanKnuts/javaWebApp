@@ -19,45 +19,55 @@ For the webService, the file PRIDSOAP.zip contains all the class of the JAR file
 
 Access to the application :
 
-Manager General           
+Manager General
 Login : managerG
 Password: root
+
 
 Librarian  manager Evere
 Login :managerE
 Password:root
 
+
 Librarian  manager Anderlecht
 Login :managerA
 Password:root
+
 
 Librarian  manager Riche Claire
 Login :managerRC
 Password:root
 
+
 Librarian  Anderlecht
 Login :bibliothecaireA
 Password:root
+
 
 Librarian  Evere
 Login :bibliothecaireE
 Password:root
 
+
 Librarian  Riche-Claire
 Login :bibliothecaireRC
 Password:root
+
 
 Reader Evere
 Login : Franci
 Password: root
 
+
 Reader Anderlecht
 Login : myriamG
 Password: root
 
+
 Reader Riche Claire
 Login : Franci
 Password: root
+
 
 
 Class AddEbookServlet => line 69 :
