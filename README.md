@@ -10,8 +10,8 @@
  
  
 ### Deployement steps :
- - Generate database 
- - Get all tools
+ - Generate database empty or not there is 2 ZIP make your choice ;) 
+ - Get all tools 
 
 For the webService, the file PRIDSOAP.zip contains all the class of the JAR file created and implemented in the WebSoapClient.war
 
